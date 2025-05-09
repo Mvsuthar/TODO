@@ -22,5 +22,18 @@ A beautiful, feature-rich desktop TODO List application built with Python using 
 - [tkcalendar](https://github.com/j4321/tkcalendar)
 - [Pillow (PIL)](https://python-pillow.org)
 
-Install the dependencies:
-- pip install customtkinter tkcalendar pillow
+## 📦 Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/todo-app.git
+   cd todo-app
+2. Install the dependencies
+   pip install customtkinter tkcalendar pillow
+3. Run the application
+   python todo_app.py
+
+⚠️ Ensure you are using Python 3.8 or later.
+
+## 🙌 Contribution
+Contributions are welcome! Feel free to open issues or submit pull requests for new features, bug fixes, or improvements.
