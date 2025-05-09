@@ -21,3 +21,6 @@ A beautiful, feature-rich desktop TODO List application built with Python using 
 - [Tkinter](https://docs.python.org/3/library/tkinter.html)
 - [tkcalendar](https://github.com/j4321/tkcalendar)
 - [Pillow (PIL)](https://python-pillow.org)
+
+Install the dependencies:
+- pip install customtkinter tkcalendar pillow
